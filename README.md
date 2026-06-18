@@ -342,7 +342,7 @@ pip install -r requirement.txt
 
 ### 1. Clone repository
 ```bash
-git clone <repo_url>
+git clone <https://github.com/ChaclaHien/DS108_Final>
 cd <project_name>
 ```
 
